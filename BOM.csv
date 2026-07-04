@@ -2,8 +2,7 @@ Item,Quantity,Estimated Cost,Link,Reason
 Raspberry Pi 5 4GB Starter Kit with Active Cooler and Case,1,160.99,,Main server hardware kit for running Nextcloud and Tailscale
 SanDisk 32GB Ultra microSDHC Card,1,23.81,,Initial Raspberry Pi OS setup and boot/recovery storage
 Geekworm X1001 PCIe to M.2 HAT Key-M NVMe SSD Board,1,13.90,,Connects an M.2 NVMe SSD to the Raspberry Pi 5 for fast cloud storage
-Kingston NV3 1TB M.2 2280 NVMe SSD,1,PRICE_HERE,,Main NVMe storage drive for private cloud files
-Official Raspberry Pi 5 Bumper Protection Cover Case,1,PRICE_HERE,,Protects the Raspberry Pi while keeping mounting holes accessible
-Ethernet Cable,1,8.00,,Stable network connection for server access
+Kingston NV3 1TB M.2 2280 NVMe SSD,1,163.99,,Main NVMe storage drive for private cloud files
+Official Raspberry Pi 5 Bumper Protection Cover Case,1,3.99,,Protects the Raspberry Pi while keeping mounting holes accessible
 Misc Cables / Adapters,1,15.00,,Extra setup materials
-Estimated Tax and Shipping,1,PRICE_HERE,,Estimated checkout tax and shipping for hardware order
+Estimated Tax and Shipping,1,23.86,,Estimated 6.25 percent sales tax with Amazon Prime shipping free
