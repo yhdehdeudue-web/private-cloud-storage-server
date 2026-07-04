@@ -1,0 +1,6 @@
+# Replace YOUR-TAILSCALE-DNS-NAME with the real DNS name from the Tailscale dashboard.
+
+sudo snap run nextcloud.occ config:system:set trusted_proxies 0 --value=127.0.0.1
+sudo snap run nextcloud.occ config:system:set overwriteprotocol --value=https
+sudo snap run nextcloud.occ config:system:set trusted_domains 1 --value="YOUR-TAILSCALE-DNS-NAME"
+sudo tailscale serve --bg --https=443 http://localhost:80
